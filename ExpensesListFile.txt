@@ -1,0 +1,24 @@
+
+1) Info about expense: 
+Person name: "leo"
+Service he/she has paid for: "hotel"
+Amount of it: 1000
+
+
+2) Info about expense: 
+Person name: "mike"
+Service he/she has paid for: "museum"
+Amount of it: 50
+
+
+4) Info about expense: 
+Person name: "john"
+Service he/she has paid for: "rent car"
+Amount of it: 180
+
+
+4) Info about expense: 
+Person name: "john"
+Service he/she has paid for: "dinner"
+Amount of it: 90
+
